@@ -9,10 +9,10 @@ This code book summarizes the data fields in tidy.txt.
 
 ##Measurements
 
-*tBodyAccMeanX
-*tBodyAccMeanY
-*tBodyAccMeanZ
-*tBodyAccStdX
+* tBodyAccMeanX
+* tBodyAccMeanY
+* tBodyAccMeanZ
+* tBodyAccStdX
 *tBodyAccStdY
 *tBodyAccStdZ
 *tGravityAccMeanX
